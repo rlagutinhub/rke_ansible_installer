@@ -42,3 +42,5 @@ Run the playbook using:
     ansible-playbook -i hosts site.yml
 
 Note: to deploy RKE automaticaly, first edit `group_vers/rke` and set `install_cluster` to `True`. 
+
+FYI, https://medium.com/@osmarrleao/installing-rke-cluster-on-enterprise-linux-d4cded73fa84
